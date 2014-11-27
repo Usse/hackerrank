@@ -12,7 +12,7 @@ function processData(input) {
         return;
       }
     }
-    return -1
+    return -1;
 }
 
 process.stdin.resume();
